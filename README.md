@@ -29,7 +29,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code+Explorer;Always+Learning" alt="Typing SVG" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHLara)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GHLara)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
 I'm a Fullstack developer and Computer Science Undergraduate that keep going on.
